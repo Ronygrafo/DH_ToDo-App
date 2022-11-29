@@ -1,6 +1,6 @@
-# DH_ToDo-App
- To-Do web app using API REST. [CTD Practice]
-
+# To Do Web App [Digital House]
+ To-Do web app using API REST.
+ **Frontend II CTD** Project
 
 # ToDo App
 
@@ -19,13 +19,13 @@ Link con la documentación de los endpoints de la API y su funcionamiento:
 
 ## Requerimientos funcionales en pantalla de Login
 
-- [ ] FUNCIÓN 1: Escuchar el submit y preparar los datos para el envío.
-- [ ] FUNCIÓN 2: Realizar la petición a la API para ingresar si los datos del usuario son correctos.
+- [x] FUNCIÓN 1: Escuchar el submit y preparar los datos para el envío.
+- [x] FUNCIÓN 2: Realizar la petición a la API para ingresar si los datos del usuario son correctos.
 
 ## Requerimientos funcionales en pantalla de Signup
 
-- [ ] FUNCIÓN 1: Escuchar el submit y preparar los datos para el envío.
-- [ ] FUNCIÓN 2: Realizar la petición a la API crear un nuevo usuario si completa todos los datos.
+- [x] FUNCIÓN 1: Escuchar el submit y preparar los datos para el envío.
+- [x] FUNCIÓN 2: Realizar la petición a la API crear un nuevo usuario si completa todos los datos.
 
 ## Requerimientos funcionales en pantalla de Tareas
 
